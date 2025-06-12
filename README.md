@@ -13,3 +13,5 @@ KPIs and metrics for tracking customer behavior and account performace, status.
 Visualizations built with Google Data Studio for insights
 
 This dashboard is part of a broader effort to drive customer-centric strategies and enhance business intelligence in the banking sector.
+
+Direct Link : https://lookerstudio.google.com/s/gGd1wod-1s4
